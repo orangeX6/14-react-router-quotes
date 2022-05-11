@@ -14,4 +14,7 @@
           </div>
         }
       >
+
+  // To disable firebase hosting 
+  firebase hosting:disable
 */
